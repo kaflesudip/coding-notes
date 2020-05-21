@@ -66,3 +66,4 @@
   - Quotas: prevent overconsumption
     - Rate quota: reset after specific time
     - Allocation quotas: govern no. of resources you can have in project. 
+
