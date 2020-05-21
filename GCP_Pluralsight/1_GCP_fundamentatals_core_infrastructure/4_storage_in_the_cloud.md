@@ -93,7 +93,7 @@
 
 # 7 Comparing storage services
 
-![image-20200521175114378](/Users/s.kafle/Library/Application Support/typora-user-images/image-20200521175114378.png)
+![image-20200521185507632](4_storage_in_the_cloud/image-20200521185507632.png)
 
 
 
