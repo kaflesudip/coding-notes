@@ -1,0 +1,6 @@
+site_name: Coding Notes by Sudip
+site_url: https://coding-notes.readthedocs.io/
+nav:
+    - Home: README.md
+docs_dir: .
+theme: readthedocs
