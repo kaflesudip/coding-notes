@@ -1,0 +1,10 @@
+site_name: Coding Notes by Sudip
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+      - yaml
+      - rust
+docs_dir: docs/
+plugins:
+    - mermaid2
