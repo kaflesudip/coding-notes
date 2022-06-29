@@ -3,6 +3,7 @@
 - https://2022.pycon.de/program/WADNGC/
 - Antoine Toubhans
 - Slides: https://github.com/sicara/pycon-2022-dvc-streamlit
+- YOutube: https://www.youtube.com/watch?v=YOSVMMwTlHM
 
 
 
